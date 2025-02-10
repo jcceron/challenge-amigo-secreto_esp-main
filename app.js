@@ -25,3 +25,19 @@ function agregarAmigo() {
 }
 
 
+function actualizarListaAmigos() {
+    // Obtenemos el elemento de la lista en el HTML
+    let lista = document.getElementById("listaAmigos");
+
+    // Limpiamos la lista existente para evitar duplicados
+    lista.innerHTML = "";
+
+    // Iteramos sobre el array de amigos y agregar cada nombre como un <li>
+    for (let i = 0; i < amigos.length; i++) {
+        let elemento = document.createElement("li");
+        elemento.textContent = amigos[i]; // Asignar el nombre al elemento <li>
+        lista.appendChild(elemento); // Agregar el elemento a la lista en el HTML
+    }
+}
+
+
