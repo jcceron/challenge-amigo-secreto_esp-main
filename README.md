@@ -44,7 +44,7 @@ Esta herramienta es ideal para organizar intercambios de regalos de manera diver
 ## 📁 **Acceso al Proyecto**  
 Puedes acceder al proyecto en el siguiente enlace:  
 
-🔗 **[Amigo Secreto - Demo Online](URL_DEL_PROYECTO_ENLÍNEA)**  
+🔗 **[Amigo Secreto - Demo Online](https://jcceron.github.io/challenge-amigo-secreto_esp-main/)**  
 
 También puedes clonar el repositorio y ejecutarlo localmente:  
 
