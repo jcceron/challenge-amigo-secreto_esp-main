@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto 🎉
 
-![Amigo Secreto](URL_DE_LA_IMAGEN_DE_PORTADA)
+![Amigo Secreto](https://github.com/jcceron/challenge-amigo-secreto_esp-main/blob/master/assets/amigo-secreto.png))
 
 ## 🏷️ Estado del Proyecto  
 ![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
