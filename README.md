@@ -46,6 +46,19 @@ Puedes acceder al proyecto en el siguiente enlace:
 
 🔗 **[Amigo Secreto - Demo Online](https://jcceron.github.io/challenge-amigo-secreto_esp-main/)**  
 
+## 🛠️ **Cómo Ejecutar el Proyecto**
+1️⃣ Descarga o clona este repositorio.
+2️⃣ Abre el archivo index.html en tu navegador.
+3️⃣ Ingresa nombres en el campo de texto y presiona el botón "Añadir".
+4️⃣ Presiona "Sortear Amigo" para elegir aleatoriamente un amigo secreto.
+
+No se requieren dependencias externas, solo un navegador web moderno.
+
+## 👨‍💻 **Autores del Proyecto**
+
+<img src="https://avatars.githubusercontent.com/u/jcceron?v=4" width=115><br><sub>Juan Carlos Cerón</sub>
+
+
 También puedes clonar el repositorio y ejecutarlo localmente:  
 
 ```bash
