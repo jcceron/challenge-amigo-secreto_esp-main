@@ -57,10 +57,3 @@ No se requieren dependencias externas, solo un navegador web moderno.
 ## 👨‍💻 **Autores del Proyecto**
 
 <img src="https://avatars.githubusercontent.com/u/149025679?v=4" width=115><br><sub>Juan Carlos Cerón</sub>
-
-
-También puedes clonar el repositorio y ejecutarlo localmente:  
-
-```bash
-git clone https://github.com/TU_USUARIO/challenge-amigo-secreto_esp-main.git
-cd amigo-secreto
